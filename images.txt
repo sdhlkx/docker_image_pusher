@@ -12,3 +12,4 @@ jeessy/ddns-go
 gdy666/lucky
 xiaoyaliu/alist
 dockerproxy.com/library/alpine
+6053537/portainer-ce
